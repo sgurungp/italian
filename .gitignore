@@ -18,6 +18,11 @@
 *.cb2
 .*.lb
 
+## Generated pdfs in the latex sources folder (these come from LaTeX
+## compilation steps, but the version checked in comes from the pdf/
+## folder, not the tex one).
+latex/tex/*.pdf
+
 ## Intermediate documents:
 *.dvi
 *.xdv
