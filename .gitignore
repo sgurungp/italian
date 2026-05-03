@@ -21,7 +21,8 @@
 ## Generated pdfs in the latex sources folder (these come from LaTeX
 ## compilation steps, but the version checked in comes from the pdf/
 ## folder, not the tex one).
-latex/tex/*.pdf
+latex/ita-100/*.pdf
+latex/ita-200/*.pdf
 
 ## Intermediate documents:
 *.dvi
